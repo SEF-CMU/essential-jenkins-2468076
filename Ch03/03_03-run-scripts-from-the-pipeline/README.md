@@ -1,3 +1,6 @@
+[![Build Status](http://10.114.4.214:30800/buildStatus/icon?job=fibonacci)](http://10.114.4.214:30800/job/fibonacci/) 
+
+
 # 03_03 Run scripts from the pipeline
 
 Pipelines can be used to call scripts that are stored in a repo along with a Jenkinsfile.
